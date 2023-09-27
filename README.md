@@ -21,6 +21,7 @@ This demo demonstrates:
 - All Chess Piece Moves
 - Capturing Pieces
 - Changing Turns
+- Invalid Moves
 
 ![demo.gif](Documentation/Animation-1.gif)
 
@@ -30,3 +31,4 @@ This demo demonstrates:
 - Castling
 - Promotion
 - En passant
+- Fog of War
